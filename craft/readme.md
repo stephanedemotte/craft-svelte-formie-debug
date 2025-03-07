@@ -1,1 +1,0 @@
-`php craft setup/keys`
