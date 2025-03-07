@@ -1,0 +1,7 @@
+/.env
+/.idea
+/vendor
+/web/uploads
+/config/license.key
+composer.lock
+.DS_Store

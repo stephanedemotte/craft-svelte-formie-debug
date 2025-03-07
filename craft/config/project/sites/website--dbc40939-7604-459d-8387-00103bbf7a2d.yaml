@@ -1,0 +1,9 @@
+baseUrl: '@frontent_url/'
+enabled: true
+handle: website
+hasUrls: true
+language: en-CA
+name: Website
+primary: true
+siteGroup: 6b5b1604-cbe0-4b17-8d63-aaa586ceebf2 # Sites
+sortOrder: 1

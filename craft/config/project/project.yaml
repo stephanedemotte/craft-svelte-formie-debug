@@ -1,0 +1,47 @@
+dateModified: 1741343432
+email:
+  fromEmail: stephane@gaidaandsteph.com
+  fromName: origin-craft-sveltekit
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: true
+    name: Uploads
+    settings:
+      path: '@webroot/uploads'
+    type: craft\fs\Local
+    url: '@web/uploads'
+meta:
+  __names__:
+    0dc819e2-0bd9-4307-888c-3ca41203ec2d: Uploads # Uploads
+    1f4da6c0-2988-4c3b-86f7-9316da68fd5e: Website # Website
+    3bd873c2-2182-4e36-b682-795f8467c7a8: New # New
+    4a8904c4-a415-4548-9174-a7e834d34b66: Home # Home
+    5c7d639a-212c-479b-9cba-75c27341c0f1: 'Contact Form' # Contact Form
+    6b5b1604-cbe0-4b17-8d63-aaa586ceebf2: Sites # Sites
+    7be4b51f-c76c-48f0-9286-9d7382d6c18e: Home # Home
+    162a3b3a-57cb-4b08-8ed7-ac54edd00b46: Form # Form
+    c04a2955-8cb2-489d-a453-0505653aab53: New # New
+    c90c471b-af4c-4d6c-a095-2719862dea16: 'Public Schema' # Public Schema
+    d1f86a52-1bf5-462f-9b3c-b77ed51407b4: New # New
+    d6d491ea-1d95-4c0b-829e-54cc9d122640: Simple # Simple
+    dbc40939-7604-459d-8387-00103bbf7a2d: Website # Website
+plugins:
+  formie:
+    edition: standard
+    enabled: true
+    licenseKey: 6051PHBOR4EGDBLGRVUPMPRT
+    schemaVersion: 3.4.8
+system:
+  edition: solo
+  live: true
+  name: origin-craft-sveltekit
+  schemaVersion: 5.6.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
