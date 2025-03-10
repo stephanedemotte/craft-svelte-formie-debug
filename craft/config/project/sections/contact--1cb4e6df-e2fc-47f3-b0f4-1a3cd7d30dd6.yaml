@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 67d2eef8-0f62-4118-a2e6-65bbe7722c57 # Contact
+handle: contact
+maxAuthors: 1
+name: Contact
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  dbc40939-7604-459d-8387-00103bbf7a2d: # Website
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: contact
+type: single

@@ -2,20 +2,15 @@ isPublic: false
 name: Website
 scope:
   - 'sites.dbc40939-7604-459d-8387-00103bbf7a2d:read' # Website
-  - 'sites.f7708a8f-1a38-465c-9cfe-5dee63e69c54:read'
   - 'elements.drafts:read'
   - 'elements.revisions:read'
   - 'elements.inactive:read'
-  - 'sections.91681525-4674-49de-a2b4-0779d9719794:read'
-  - 'sections.8c43f444-a011-4d35-bbb5-41bdb7993acd:read'
-  - 'sections.9e495755-049e-4da5-8d76-4dd4dc09270f:read'
+  - 'sections.1cb4e6df-e2fc-47f3-b0f4-1a3cd7d30dd6:read' # Contact
   - 'sections.4a8904c4-a415-4548-9174-a7e834d34b66:read' # Home
-  - 'sections.f0c41fef-9c91-4cba-bc96-96880631179e:read'
-  - 'nestedentryfields.4083231a-3406-4286-8be4-2079e5463106:read'
-  - 'nestedentryfields.4a213ee7-688d-4de1-a0a4-8d1a73ac76aa:read'
-  - 'nestedentryfields.0c7aacf9-34b6-41c4-8bca-827d5f6d24d1:read'
   - 'volumes.0dc819e2-0bd9-4307-888c-3ca41203ec2d:read' # Uploads
   - 'formieForms.all:read'
+  - 'formieForms.801cef1c-7439-4f7c-a5d8-f9532f01a48e:read'
   - 'formieForms.d9466e5a-c611-40cb-a802-ef6e2eb79999:read'
   - 'formieSubmissions.all:read'
+  - 'formieSubmissions.801cef1c-7439-4f7c-a5d8-f9532f01a48e:read'
   - 'formieSubmissions.d9466e5a-c611-40cb-a802-ef6e2eb79999:read'

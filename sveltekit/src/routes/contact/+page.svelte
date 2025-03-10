@@ -3,7 +3,7 @@
   const forms = page.data.entry.form;
 </script>
 
-<a href="/contact">contact</a>
+<a href="/">home</a>
 
 {#each forms as form}
   <div class="w-1/2 mx-auto mt-40">
